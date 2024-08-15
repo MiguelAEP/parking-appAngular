@@ -1,0 +1,8 @@
+.h1{
+    font-size: 40px;
+}
+
+.h1:hover{
+    font-size: 43px;
+    transition: 3s;
+}
